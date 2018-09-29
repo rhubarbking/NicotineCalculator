@@ -4,4 +4,4 @@ Simple python calculator which can be run form the terminal for exact amounts of
 
 TO RUN:
 
-$ py ejuiceCalc.py
+$ py ./nicotineCalc/ejuiceCalc.py
